@@ -2,7 +2,7 @@
 title:               'TFG(Re)Search'
 tagline:             'Investigación en Matemáticas'
 description:         'Página con la información relativa al proyecto de innovación docente 22-136 de la Universidad de Granada'
-url:                 https://tfg-re-search.github.io/intro
+url:                 https://tfg-re-search.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
