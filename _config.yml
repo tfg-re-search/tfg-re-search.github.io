@@ -1,0 +1,24 @@
+# Setup
+title:               'TFG(Re)Search'
+tagline:             'Investigación en Matemáticas'
+description:         'Página con la información relativa al proyecto de innovación docente 22-136 de la Universidad de Granada'
+url:                 https://tfg-re-search.github.io/intro
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Óscar Sánchez Romero y Pedro A. García Sánchez
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+gems: [jekyll-paginate]  
+  
+# Custom vars
+version:             1.1.0
+logo: /assets/img/logo-tri.png
+logo-simple: /assets/img/logo-tri-simple.png
+

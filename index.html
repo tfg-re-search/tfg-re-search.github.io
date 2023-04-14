@@ -1,5 +1,39 @@
- <html>
-   <head>
-     <meta http-equiv="refresh" content="0;URL=https://tfg-re-search.github.io/intro/">
-   </head>
- </html>
+---
+layout: default
+title: Novedades
+---
+
+<img src={{site.logo}} alt="logo">
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Antiguos</a>
+  {% else %}
+    <span class="pagination-item older">Antiguos</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Nuevos</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Nuevos</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Nuevos</span>
+  {% endif %}
+</div>
