@@ -1,3 +1,6 @@
+layout: post
+title:  El TFG, herramienta de transmisión de conocimiento
+
 ### El TFG, herramienta de transmisión de conocimiento a la sociedad.
 
 Uno de los objetivos de  este proyecto es facilitar la transferencia de conocimiento en lo que refiere a la investigación en matemáticas en la [Universidad de Granada (UGR)](www.ugr.es).
