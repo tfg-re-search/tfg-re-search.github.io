@@ -4,7 +4,7 @@ title: Líneas de investigación
 ---
 
 
-![TFG(Re)Search]({{ site.baseurl | absolute_url }}{% link {{site.logo}} %})
+![TFG(Re)Search]({{site.logo}}) 
 
 - [Análisis Convexo y numérico]({{ site.baseurl | absolute_url }}{% link mapli/convexo.md %})
     -  Aproximación iterativa de puntos fijos.
