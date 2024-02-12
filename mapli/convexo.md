@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 
 # Análisis Convexo y Numérico

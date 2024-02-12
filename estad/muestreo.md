@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 #  Diseño y Análisis Estadístico de Encuestas por Muestreo
 

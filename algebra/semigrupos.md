@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Semigrupos numéricos y aplicaciones
 

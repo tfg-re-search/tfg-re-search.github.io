@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 
 # Análisis numérico y teórico de modelos micro y mesoscópicos en teoría cinética y biología

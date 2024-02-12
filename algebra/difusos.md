@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Conjuntos difusos y sus extensiones
 

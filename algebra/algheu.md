@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía 
 ## (ALGHEU, PID2019-110525GB-I00)

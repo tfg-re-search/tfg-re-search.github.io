@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 
 # Ecuaciones diferenciales en Matemática Aplicada

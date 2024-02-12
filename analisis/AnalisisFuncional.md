@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Análisis Funcional. Operadores y geometría de los espacios y las álgebras de Banach.
 

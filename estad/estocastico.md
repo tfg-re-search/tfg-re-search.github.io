@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Procesos estocásticos. Aplicaciones a la modelización
 

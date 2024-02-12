@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 #  Ecuaciones en Derivadas Parciales en Física y Geometría
 

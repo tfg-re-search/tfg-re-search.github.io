@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Análisis de Datos en el proyecto GENEIDA 
 

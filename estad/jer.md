@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: ""
 ---
 # Predicción, Estimación y Modelización en análisis de supervivencia y fiabilidad
 ## Profesor implicado 
