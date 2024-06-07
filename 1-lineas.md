@@ -57,6 +57,10 @@ title: Líneas de investigación
     -  Ecuaciones con fronteras libres
     -  Prescripción de curvatura en una superficie
   
+ - [Fundamentos matemáticos de Ciencias de la Computación]({{ site.baseurl | absolute_url }}{% link mapli/FundMatCC.md %})
+    -  Fundamentación Matemática de herramientas Deep Learning
+    -  Fundamentación Matemática avanzada  en redes neuronales artificiales
+  
   - [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía]({{ site.baseurl | absolute_url }}{% link algebra/algheu.md %})
     - Códigos de bloque cíclicos sesgados
     - Códigos convolucionales cíclicos
