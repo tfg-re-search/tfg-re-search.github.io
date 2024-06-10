@@ -34,7 +34,7 @@ La Matemática Aplicada ayuda a entender cómo modelos específicos de deep lear
 
 ###  Seguridad y Robustez.
 
-El análisis matemático puede ayudar a identificar y mitigar posibles vulnerabilidades en los modelos de deep learning, como ataques adversariales. Esto es fundamental para aplicaciones en áreas sensibles como la seguridad y la medicina.
+La Matemática Aplicada puede ayudar a identificar y mitigar posibles vulnerabilidades en los modelos de deep learning, como ataques adversariales. Esto es fundamental para aplicaciones en áreas sensibles como la seguridad y la medicina.
 
 ### Interpretabilidad.
 
