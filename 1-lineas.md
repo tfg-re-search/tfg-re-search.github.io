@@ -52,7 +52,7 @@ title: Líneas de investigación
     - Ecuaciones diferenciales con origen y aplicación en diferentes campos científicos. 
     - Modelado, análisis, conexiones, nuevas propuestas, etc.
     
- - [Ecuaciones en Derivadas Parciales en Física y Geometría]({{ site.baseurl | absolute_url }}{% link analisis/EDPAnalisis.md %})
+- [Ecuaciones en Derivadas Parciales en Física y Geometría]({{ site.baseurl | absolute_url }}{% link analisis/EDPAnalisis.md %})
     -  Problemas de la Física Matemática
     -  Ecuaciones con fronteras libres
     -  Prescripción de curvatura en una superficie
@@ -68,9 +68,8 @@ title: Líneas de investigación
     - Teorema $p^a\cdot p^b$ de Burnside
     - Influencia de los tamaños de clase en grupos finitos
     - Introducción a la teoría de códigos de grupo
-    
-  
-  - [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía]({{ site.baseurl | absolute_url }}{% link algebra/algheu.md %})
+     
+- [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía]({{ site.baseurl | absolute_url }}{% link algebra/algheu.md %})
     - Códigos de bloque cíclicos sesgados
     - Códigos convolucionales cíclicos
     - Criptografía post-cuántica
