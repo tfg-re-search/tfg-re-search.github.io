@@ -60,6 +60,15 @@ title: Líneas de investigación
  - [Fundamentos matemáticos de Ciencias de la Computación]({{ site.baseurl | absolute_url }}{% link mapli/FundMatCC.md %})
     -  Fundamentación Matemática de herramientas Deep Learning
     -  Fundamentación Matemática avanzada  en redes neuronales artificiales
+      
+- [Grupos finitos]({{ site.baseurl | absolute_url }}{% link algebra/grupos-finitos.md %})
+    - Las matemáticas del cubo de Rubik y otros rompecabezas
+    - Teoría de subgrupos de Hall
+    - Introducción a los caracteres de Brauer
+    - Teorema $p^a\cdot p^b$ de Burnside
+    - Influencia de los tamaños de clase en grupos finitos
+    - Introducción a la teoría de códigos de grupo
+    
   
   - [Métodos Algebraicos y Heurísticos en Teoría de Códigos y Criptografía]({{ site.baseurl | absolute_url }}{% link algebra/algheu.md %})
     - Códigos de bloque cíclicos sesgados
