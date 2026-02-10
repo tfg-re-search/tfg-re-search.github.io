@@ -7,8 +7,7 @@ title: ""
 ## Profesores implicados 
 
 
-- [Patricio Almirón Cuadros](https://directorio.ugr.es/static/PersonalUGR/*/show/5a6188042bb3f73d7fb33a8ef3e23702) [FQM-343](https://semigrupos.ugr.es/) $\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1315774)
-- [Pedro A. García Sánchez](https://algebra.ugr.es/pages/personal/fichas_profesores/pedro), [FQM-343](https://semigrupos.ugr.es/) $\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=601396)
+- [Pedro A. García Sánchez](https://algebra.ugr.es/pages/personal/fichas_profesores/pedro)$\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=601396)
 - [Aureliano M. Robles Pérez](https://mateapli.ugr.es/index.php/informacion/directorio-personal/aureliano-m-robles-perez), [FQM-343](https://semigrupos.ugr.es/) $\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=633502)
 - [José Carlos Rosales González](https://directorio.ugr.es/static/PersonalUGR/*/show/38e1b86494ce65713f559cc8c3b378f5), [FQM-343](https://semigrupos.ugr.es/) $\to$ [mathscinet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=359302)
 

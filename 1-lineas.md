@@ -57,6 +57,12 @@ title: Líneas de investigación
     -  Ecuaciones con fronteras libres
     -  Prescripción de curvatura en una superficie
   
+ - [Estadística Espacial y Aplicaciones]({{ site.baseurl | absolute_url }}{% link estad/estadistica-espacial.md %}) 
+    - Introducción a la estadística espacial y aplicaciones
+    - Gestión cuantitativa del riesgo: aplicaciones en finanzas y sistemas complejos
+    - Análisis de valores extremos en contextos espaciales
+    - Enfoques multivariante y espacial para el análisis de datos genómicos
+
  - [Fundamentos matemáticos de Ciencias de la Computación]({{ site.baseurl | absolute_url }}{% link mapli/FundMatCC.md %})
     -  Fundamentación Matemática de herramientas Deep Learning
     -  Fundamentación Matemática avanzada  en redes neuronales artificiales
