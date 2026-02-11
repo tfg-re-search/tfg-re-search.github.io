@@ -159,7 +159,7 @@ de carteras hasta el estudio de eventos críticos en sistemas naturales.
 -   Analizar en profundidad los fundamentos matemáticos que sustentan
     las metodologías de valoración del riesgo utilizadas en contextos
     financieros, evaluando también su adaptabilidad y aplicación a otros
-    sistema complejos.
+    sistemas complejos.
 
 -   Estudiar las principales medidas de riesgo utilizadas en QRM: VaR,
     CVaR, medidas coherentes de riesgo.
@@ -275,7 +275,7 @@ análisis en forma de mapas espaciales interactivos, gráficos de
 componentes principales, mapas de clústeres y superficies interpoladas
 mediante kriging. Este desarrollo buscará no solo facilitar la
 interpretación biológica de los datos, sino también poner a disposición
-de herramientas reutilizables para análisis similares en otros tejidos u
+herramientas reutilizables para análisis similares en otros tejidos u
 organismos. Finalmente, se discutirá el potencial de estas técnicas en
 contextos biomédicos, como la identificación de regiones genómicas
 implicadas en enfermedades, el estudio de la heterogeneidad celular en
@@ -304,7 +304,7 @@ era de la biología de datos.
     genómicos, del uso de algunas de las metodologías/estrategias y
     desarrollo de procedimientos computacionales relacionados.
 
-#### Bibliografía general
+### Bibliografía general
 
 1.  Adler, R. J., Taylor, J. E. (2007) Random Fields and Geometry,
     Springer.
