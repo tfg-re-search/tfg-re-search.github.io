@@ -11,6 +11,7 @@ title: ""
 - Juan Calvo, 
 - Juan Campos, 
 - José A. Cañizo, 
+- Rene Fabregas,
 - José Luis López, 
 - Rafael Ortega, 
 - Óscar Sánchez, 
@@ -25,9 +26,9 @@ title: ""
 
 ## Descripción de líneas
 ### Línea 1: Ecuaciones diferenciales ordinarias
--	Sistemas dinámicos en mecánica y biología
+- Sistemas dinámicos en mecánica y biología
 - Ecuaciones elípticas
--	Ecuaciones de ondas
+- Ecuaciones de ondas
 
 ### Línea 2: Ecuaciones en derivadas parciales
 -	Ecuaciones de transporte (Vlasov, Boltzmann, Fokker-Planck…)
@@ -36,6 +37,7 @@ title: ""
 -	Modelos discretos y ecuaciones estocásticas
 -	Límites asintóticos y modelos multiescala 
 -	Biomatemáticas, modelos de desarrollo
+-	Modelización de fenómenos electrocinéticos y mecánicos a micro/nanoescala  (electroquimiotaxis, dielectroforesis, organ-on-a-chip, microscopía de sonda de barrido)
 
 
 ### Enlaces de interés
